@@ -2,6 +2,9 @@ Esta actividad se definio definitiva puesto que por accidente subi otra activida
 Pero esta es la definitiva 
 
 
+La base de datos esta elaborada en el gestor de MYSQL 
+
+
 
 Instrucciones de uso del avance del programa 
 
